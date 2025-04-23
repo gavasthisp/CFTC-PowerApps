@@ -5,10 +5,4 @@ The Calgary Family Therapy centre located in Canada is an integrated service, tr
 
 There are 4 Canvas Power Apps for Referrals, Clients, Clinical Forms and Book Meetings.
 
-## Referrals Power App:
-This Power App is used to enter, view and update Referral data.
-### Family Referrals screen:
-This screen shows all the Referrals that have been entered in the App.
-
-
 
